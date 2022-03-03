@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<header>
+		<h1> <center> Sushmit's First Website </center> </h1>
+		</header>
+	</head>
+		
+	<body style="background-color: #656D45">
+	<br>
+	<br>
+	<h3> <center> Turns out this door leads to absolutely nothing as well.</center> </h3>
+	<h3> <center> You lose. Bye bye.</center> </h3>
+	
+	<center>
+	
+	
+	<img src= "https://www.touristengland.com/wp-content/uploads/2021/08/Warner-Bros-Studio-Tour-London-Harry-Potter.jpeg" width=400 alt="door1_missing">
+	
+	
+
+	<img src= "https://loveincorporated.blob.core.windows.net/contentimages/gallery/80d8929f-9886-408b-bc39-34525847bf29-14907030_10154961960483455_8413150490861213160_n.jpg" width=400 alt="door2_missing">
+
+	
+	<img src= "https://casaefesta.com/wp-content/uploads/2020/08/festa-harry-potter-35.jpeg" width=400 alt="door3_missing">
+	
+	</center>
+	
+	</body>
+
+
+
+
+</html>
