@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<header>
+		<h1> <center> Sushmit's First Website </center> </h1>
+		</header>
+	</head>
+		
+	<body style="background-color: #656D45">
+	<br>
+	<br>
+	<h3> <center> I accidently opened the wrong door. Oops.</center> </h3>
+	<h3> <center> Do you want to switch doors?</center> </h3>
+	
+	<center>
+	
+	
+	<img src= "https://www.touristengland.com/wp-content/uploads/2021/08/Warner-Bros-Studio-Tour-London-Harry-Potter.jpeg" width=400 alt="door1_missing">
+	
+	
+	<a href="website 1_page4.html">
+	<img src= "https://i.pinimg.com/564x/31/de/19/31de19b92bacd5938bdf6b3cbd0cb20c.jpg" width=400 alt="door2_missing">
+	</a>
+	
+	<a href="website 1_page5.html">
+	<img src= "https://casaefesta.com/wp-content/uploads/2020/08/festa-harry-potter-35.jpeg" width=400 alt="door3_missing">
+	</a>	
+	
+	</center>
+	
+	</body>
+
+
+</html>
