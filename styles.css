@@ -1,0 +1,14 @@
+*{
+    background-color: #484848;
+
+
+}
+.header{
+    text-align: center;
+    color: rgb(70, 3, 194);
+}
+
+.images{
+    display: flex;
+    background-size:cover;
+}
