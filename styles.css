@@ -10,5 +10,5 @@
 
 .images{
     display: flex;
-    background-size:cover;
+    size:cover;
 }
